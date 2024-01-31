@@ -1,2 +1,2 @@
 # fast-neural-transfer-chainer-pytorch-port
-port from chained to PyTorch
+port from chainer to PyTorch
